@@ -25,7 +25,7 @@ This project implements an advanced DNA editing tool inspired by Vim keybindings
 
 1. Clone this repository:
    ```
-   git clone https://github.com//sequence.git
+   git clone https://github.com/ariankh/sequence.git
    ```
 2. Navigate to the project directory:
    ```

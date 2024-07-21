@@ -29,7 +29,7 @@ This project implements an advanced DNA editing tool inspired by Vim keybindings
    ```
 2. Navigate to the project directory:
    ```
-   cd enhanced-dna-editor
+   cd dna-editor
    ```
 3. Install the required dependencies:
    ```

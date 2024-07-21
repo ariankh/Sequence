@@ -22,11 +22,11 @@ The DNA Editing Language is a powerful tool designed for manipulating and analyz
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/dna-editing-language.git
+   git clone https://github.com/ariankh/sequence.git
    ```
 2. Navigate to the project directory:
    ```
-   cd dna-editing-language
+   cd dna-editing.py
    ```
 3. Install dependencies:
    ```
